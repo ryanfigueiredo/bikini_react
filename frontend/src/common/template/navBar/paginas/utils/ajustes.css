@@ -1,0 +1,11 @@
+.jumbotron {
+    background-color: bisque !important;
+    padding-top: 20px !important;
+    padding-bottom: 5px !important;
+    margin-bottom: 8px !important;
+}
+
+.display-4 {
+    text-align: left !important;
+    padding-left: 50px !important;
+}
